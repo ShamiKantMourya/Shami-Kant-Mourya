@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @BlackxJoker
-- 👀 I’m interested in python and hacking
+- 👋 Hi, I’m Shami Kant Mourya
+- 👀 I’m interested in python and Web Development
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 
 
 <!---
 BlackxJoker/BlackxJoker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
