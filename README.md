@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://shamikantmourya.netlify.app](https://shamikantmourya.netlify.app)
 
-- 📝 I regularly write articles on [shamimourya.blogspot.com](shamimourya.blogspot.com)
+- 📝 I regularly write articles on [shamimourya.blogspot.com](https://shamimourya.blogspot.com/)
 
 - 💬 Ask me about **react, redux, node js, express js**
 
