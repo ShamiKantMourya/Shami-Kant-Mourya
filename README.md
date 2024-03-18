@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Shami Kant Mourya</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate Web Developer developer from India, New Delhi</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamikantmourya" alt="shamikantmourya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/https://twitter.com/shami_mourya" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/shami_mourya?logo=twitter&style=for-the-badge" alt="https://twitter.com/shami_mourya" /></a> </p>
 
-- 🔭 I’m currently working on [Harmony_Of_Words](https://github.com/ShamiKantMourya/Harmony_Of_Word)
+- 🔭 I’m currently working on [Verma_Creations](https://github.com/ShamiKantMourya/verma_creations)
 
-- 🌱 I’m currently learning **React, Node js, Express js**
+- 🌱 I’m currently learning **React, Node js, Express js, Redux**
 
 - 👨‍💻 All of my projects are available at [https://shamikantmourya.netlify.app](https://shamikantmourya.netlify.app)
 
